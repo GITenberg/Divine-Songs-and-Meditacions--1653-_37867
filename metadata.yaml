@@ -1,0 +1,35 @@
+_repo: Divine-Songs-and-Meditacions--1653-_37867
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, An, active 17th century
+    alias: Collins, Anne
+    gutenberg_agent_id: '39100'
+    url: http://www.gutenberg.org/2009/agents/39100
+  editor:
+    agent_name: Stewart, Stanley
+    alias: Stewart, Stanley N.
+    birthdate: 1931
+    gutenberg_agent_id: '39101'
+    url: http://www.gutenberg.org/2009/agents/39101
+description: ''
+gutenberg_issued: '2011-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37867'
+  lccn: '62053553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 94
+subjects:
+- !lcc 'PR'
+- !lcsh 'Meditations'
+- !lcsh 'Christian women -- Religious life -- Poetry'
+- !lcsh 'Christian poetry, English -- Early modern, 1500-1700'
+title: Divine Songs and Meditacions (1653)
+url: http://www.gutenberg.org/ebooks/37867
